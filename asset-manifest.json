@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vouch-Digital-Assessment/static/css/main.5ce5d199.css",
+    "main.js": "/Vouch-Digital-Assessment/static/js/main.08957974.js",
+    "static/js/787.00b772cb.chunk.js": "/Vouch-Digital-Assessment/static/js/787.00b772cb.chunk.js",
+    "static/media/Landing_Image.png": "/Vouch-Digital-Assessment/static/media/Landing_Image.be2f801b416e186e1f9a.png",
+    "index.html": "/Vouch-Digital-Assessment/index.html",
+    "main.5ce5d199.css.map": "/Vouch-Digital-Assessment/static/css/main.5ce5d199.css.map",
+    "main.08957974.js.map": "/Vouch-Digital-Assessment/static/js/main.08957974.js.map",
+    "787.00b772cb.chunk.js.map": "/Vouch-Digital-Assessment/static/js/787.00b772cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce5d199.css",
+    "static/js/main.08957974.js"
+  ]
+}
