@@ -1,0 +1,41 @@
+.logo p{
+    color: rgb( 2, 48, 71);
+    font-weight: 600;
+    font-size: 20px;
+    margin: 0;
+    padding-left: 60px;
+}
+
+.logo span{
+    color: rgb(251,133,0);
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.logo{
+    position: relative;
+    top: -10px;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+    padding-right: 60px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.271);
+}
+.left{
+    margin-right: 10px;
+}
+
+@media (max-width: 800px) {
+    .btns{
+        display: none;
+    }
+}
