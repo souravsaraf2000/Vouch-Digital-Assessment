@@ -33,7 +33,7 @@ function LoginForm(props) {
             </div>
             <div>
                 <Input placeholder='Email Address *' className={styles.input} size="large" onChange={(e)=>handleChange(e,"email")} required/>
-                <Input placeholder='Password *' className={styles.input} size="large" onChange={(e)=>handleChange(e,"pwd")} required/>
+                <Input placeholder='Password *' type="password" className={styles.input} size="large" onChange={(e)=>handleChange(e,"pwd")} required/>
                 <Button type="primary" block size="large" style={{
                     backgroundColor: 'rgb(2,48,71)'
                 }} className={styles.left} onClick={()=>handleLogin()}><span>Login</span></Button>
